@@ -1,0 +1,23 @@
+privacy
+
+
+Your privacy is important to us, we are fully committed to protect your privacy.
+
+This app is an "edge service" app (like "Edge", a Microsoft web browser), it simply connects you to access the specific web pages/services in the cloud, "hosted web page."
+The "hosted web page" is facebook.com.
+
+Personal Data We Collect
+The app itself does not collect any personal data including emails and credentials.
+The "hosted web page," facebook.com, may ask your login email, credentials, or collect your information the same way as you do through web browsers. Personal Data includes user data in Documents, Music, Pictures, Ringtones, Videos folders, and Camera, Audio, Location, sensor data, etc. Please refer facebook.com privacy pages for more detail privacy statements of their services.
+
+Cookies
+While the facebook.com may collect cookies to operate their services, this app itself does not use cookies, nor have access to the cookies.
+Uninstalling the app will delete all data including cookies of the "hosted web page" if it has. Microsoft Edge stores its own data somewhere else, which is a separate storage space from this app data.
+
+Feedback
+User feedback is important us, if implemented, "feedback data" is collected through standard Windows UWP (Universal Windows Platform) infrastructure, you are always welcome to send us your feedbacks.
+
+Trademarks
+We reserve all rights for the policy, app, names, logos, and ideas.
+The facebook logos, facebook.com domain names, and its services are all their registered trademarks.
+I am not affiliated with the company. This app is simply a hobby project on Windows Universal platform for worldwide Windows users.
